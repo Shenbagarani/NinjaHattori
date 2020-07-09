@@ -1,0 +1,20 @@
+/* Type selectors */
+p{
+width:70%; }
+
+/*Descendant Selector */
+article aside{
+		float:right;
+		width:30%;
+		border-top:solid 1px;
+		margin-top:60px
+		
+		}
+/*Class Selector */
+.t{
+	text-color:red;
+}
+/*Id Selector */
+#bh{
+	color:green;
+}

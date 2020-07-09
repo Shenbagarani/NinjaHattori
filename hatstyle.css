@@ -1,0 +1,17 @@
+/* Universal Selector */
+*{
+	color:#009688;
+}
+h2{
+	color:#673AB7;
+}
+/*Attribute Selector*/
+table[type="text"]
+{
+	background-color:gainsboro;
+}
+/*Grouping Selectors */
+p,pre{
+	color:green;
+	font-size:1.2em;
+}
